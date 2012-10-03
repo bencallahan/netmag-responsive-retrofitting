@@ -17,7 +17,6 @@ table {
   border: 1px solid #aaa;
 }
 
-
 /* table cells get "display: block" and "float: left" */
 th, td {
   display: block;
@@ -39,7 +38,7 @@ th {
 /* each inner table cell will fit four-across (25%) */
 td {
   width: 25%;
-  min-height: 3em;
+  height: 5em;
   border-right: 1px solid #aaa;
 }
 
